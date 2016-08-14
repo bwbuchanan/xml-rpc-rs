@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RequestError","A request could not be executed."],["Value","The possible XML-RPC values."]],"struct":[["Fault","A `<fault>` response - The call failed."],["Request","A request to call a procedure."]],"type":[["RequestResult","The result of executing a request."],["Response","A response from the server."]]});
